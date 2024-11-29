@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: gym-Voronoi-ROM
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Thomas Nakken
+    family-names: Larsen
+    email: thmlars94@gmail.com
+    affiliation: Norwegian University of Science and Technology
+    orcid: 'https://orcid.org/0000-0002-1581-6577'
+repository-code: 'https://github.com/ThomasNLarsen/gym-Voronoi-ROM'
+abstract: >-
+  codebase described in the publication "Combining Reduced
+  Order Modeling, Voronoi Diagrams, and Deep Reinforcement
+  Learning for Safe Aerial Navigation"
+license: MIT
